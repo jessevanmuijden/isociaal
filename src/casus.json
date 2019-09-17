@@ -1,0 +1,107 @@
+[
+  {
+    "Casus": 1,
+    "Actie": "Er is door de gemeente reeds een toewijzing (301) afgegeven voor het leveren van Hulp bij het Huishouden. Na 4 maanden wordt er een start zorg bericht (305) gestuurd",
+    "Reactie": "dit bericht valt uit bij de backoffice van de gemeente",
+    "Future Lane": "Wat is de reden van het intrekken van het 301 bericht? Dit hangt samen met de betrouwbaarheid van de management en prognose gegevens binnen de gemeenten. Tevens wil men vanuit beleid dat mensen snel bij een zorgaanbieder kunnen starten",
+    "Berichten": "301-302 305-306 301-302 301-302 305-306"
+  },
+  {
+    "Casus": 2,
+    "Actie": "gemeente heeft een andere productcode toegewezen dan de zorgaanbieder heeft aangevraagd.",
+    "Reactie": "Hierop vallen berichten van de zorgaanbieder vervolgens uit.",
+    "Future Lane": "Wanneer een bericht in het berichtenverkeer in het proces handmatig wordt aangepast, 'praten' systemen niet goed met elkaar wat zorgt voor uitval en onnodige administratieve handelingen en tijd.",
+    "Berichten": "315-316 301-302 305-306 303d-304 315-316 301-302 305-306 303d-304"
+  },
+  {
+    "Casus": 3,
+    "Actie": "Er is door de zorgaanbieder een Verzoek om Toewijzing (315) ingediend voor het leveren van jeugdhulp",
+    "Reactie": "De gemeente heeft het bericht ontvangen maar wenst aanvullend het Plan van Aanpak van de zorgaanbieder te laten toetsen door de toegang alvorens zij overgaan tot toewijzen (301). Let wel, deze correspondentie moet beveiligd gemaild worden.",
+    "Future Lane": "Vaak heb je als gemeenten en als zorgaanbieder een beveiligde mail verbinding. Toch is men graag extra zeker van de veiligheid wanneer zorginhoudelijke infromatie digitaal gedeeld gaat worden. Als gemeente kan je een zorgaanbieder voorstellen een bepaald programma te gebruiken om beveiligd te mailen. Maar hoe ziet dat er uit wanneer je als zorgaanbieder bij veel gemeenten gecontracteerd bent?",
+    "Berichten": "315-316 301-302"
+  },
+  {
+    "Casus": 4,
+    "Actie": "Een zorgaanbieder heeft zijn administratie niet helemaal op orde. Daarmee wordt bedoeld dat de zorgaanbieder clienten in zorg heeft en dat zij nog niet volledig in beeld hebben of dat er voor elke client een toewijzing (301) is",
+    "Reactie": "Het veranderen van zijn softwarepakket in combinatie met de decentralisatie en het gecontracteerd zijn bij 37 gemeenten maakt dat het zijn administratie onoverzichtelijk is geworden. Je gaat nu specifiek met 1 regio in gesprek.",
+    "Future Lane": "Door als gemeenten en zorgaanbieder samen te werken kan je gezamenlijk zorgen voor inzichten. Geef elkaar het vertrouwen en bouw samen.",
+    "Berichten": ""
+  },
+  {
+    "Casus": 5,
+    "Actie": "Een jeugdige is in zorg bij een zorgaanbieder, al een maand of 3.",
+    "Reactie": "De backoffice van de gemeente krijgt de melding dat het woonplaatsbeginsel van de jeugdige gewijzigd is en moet daarop verschillende mutaties uit gaan voeren.",
+    "Future Lane": "Het woonplaatsbeginsel bepaald wie de zorgkosten zal betalen. Maar in deze zie je dat het een complex en administratief verzwarend proces is.",
+    "Berichten": "301-302 305-306 303-304 303-304 303-304 303c-304 301-302 315-316 301-302 305-306 303-304"
+  },
+  {
+    "Casus": 6,
+    "Actie": "Vanuit het LTA contract is er een jeugdige die zich bij een gecontracteerd ziekenhuis heeft gemeld met een zorgvraag. Echter bleek het ziekenhuis een externe professional nodig te hebben om de zorg volledig te kunnen leveren.",
+    "Reactie": "Het ziekenhuis heeft met de toegang hierover afgestemd en de toegang heeft met het ziekenhuis afgestemd dat zij in de rol van hoofdaannemer een budget krijgen om de totale zorg te leveren. Binnen de gemeente is verwarring wanneer er een declaratie binnen komt door middel van een .PDF bestand per email aan de financiele administratie.",
+    "Future Lane": "Door geen eenduidigheid te scheppen voor uitzonderingen kan het lang duren voordat een declaratie betaald kan worden. Dat kan anders….",
+    "Berichten": "301-302 305-306 303-304"
+  },
+  {
+    "Casus": 7,
+    "Actie": "Als gemeente heeft u gesteld te werken met de 303F berichten, te weten de facturen in plaats van declaraties. Echter blijkt uw systeem de 303F niet als een factuur technisch te verwerken, maar als een 303d - declaratie.",
+    "Reactie": "Doordat er twee type berichten zijn die zowel bij de zorgaanbieder als bij de gemeente ingericht moeten zijn. Maar wat als je software er anders mee om gaat. En heeft dat dan gevolgen voor de accountantscontrole?",
+    "Future Lane": "Door 1 type bericht te gebruiken, wordt het proces eenduidiger voor zowel gemeente als zorgaanbieder èn accountant.",
+    "Berichten": "303f-304 303d-304"
+  },
+  {
+    "Casus": 8,
+    "Actie": "11 Gemeenten werken samen, zij hebben regionaal de Wmo ingekocht. Binnen deze samenwerking is 1 van de gemeente aangewezen als gastheer, deze verwerkt alle berichten van het berichtenverkeer binnen 1 centraal team backoffice. De afdeling Planning & Control heeft de management informatie gebouwd vanuit het berichtenverkeer.",
+    "Reactie": "Wat de afdeling Planning & Control niet beseft is dat de backoffice in het afgelopen jaar toch verschillende declaraties betaalbaar heeft gesteld die niet via het berichtenverkeer zijn ontvangen, maar via .PDF. Omdat de betalingen van berichtenverkeer berichten en de .PDF declaraties verschillende kenmerken hebben in de boekhouding, wordt pas laat in het jaar geconstateerd dat de financien verder uitgenut zijn dan ingeschat.",
+    "Future Lane": "Wanneer je proces strak is ingericht, kan je niet verrast worden...",
+    "Berichten": ""
+  },
+  {
+    "Casus": 9,
+    "Actie": "De uitvoeringsvariant van deze gemeente is afgelopen jaar gewijzigd. De gemeente is van inspanningsgericht (p*q), outputgericht gaan werken. Het kan voorkomen dat tijdens een traject blijkt dat de initiele aanvraag te laag is ingzet; er blijkt meer zorginzet nodig dan initieel voorzien. Deze gemeente voorziet dat dan gebeuren en heeft in de aanbesteding beschreven dat de zorgaanbieder mede daarom een schaduwadministratie van urenregistratie bij moeten houden per toewijzing (301)",
+    "Reactie": "Zo kan de gemeente bij mutaties (opschalen of afschalen van de zorgintensiteit) onderbouwing opvragen. Buiten de administratieve last die het voor de zorgaanbieders met zich mee brengt, blijkt nu aan het einde van het jaar, dat de gemeente daar bij geen enkele zorgaanbieder naar heeft gevraagd.",
+    "Future Lane": "Door schaduwadministraties op te leggen verzwaar je de administratieve last. Vertrouw op elkaar expertise, en toets steekproefgewijs in plaats van op wantrouwen allen te belasten.",
+    "Berichten": ""
+  },
+  {
+    "Casus": 10,
+    "Actie": "Bij deze zorgaanbieder werkt 1 medewerker op de zorgadministratie. De zorgaanbieder is gecontracteerd bij 29 gemeenten. Binnen deze 29 gemeenten zijn 19 detail verschillen in de administratieve processen die de zorgaanbieder en de gemeenten met elkaar doorlopen.",
+    "Reactie": "Deze medewerker werkt al sinds decentralisatie bij deze zorgaanbieder en kent de detail verschillen in werkwijze bij deze gemeenten uit haar hoofd. Deze medewerker valt uit en de zorgaanbieder is genoodzaakt een invalskracht te plaatsen. En dan loopt alles in de soep....",
+    "Future Lane": "Voor zorgaanbieders is het niet bij te houden bij welke gemeenten welke (detail) verschillen er zitten in de werkwijze. Software is ook niet geschikt om dat compleet te borgen. Hoe houd je het werkbaar voor zorgaanbieders? Hoe kan je het geld voor de zorg terug brengen naar de zorg in plaats van extra personeel in te zetten om het administratief te realiseren? Standaardiseren waar kan, maak de administratieve processen duidelijk èn landelijk gelijk, zonder dat dit in de weg hoeft te staan voor de visie.",
+    "Berichten": "315-316 301-302"
+  },
+  {
+    "Casus": 11,
+    "Actie": "U ontvangt van de afdeling inkoop een document gevuld met de gegevens van een niet gecontracteerde zorgaanbieder en de zorginzet (productcategorie, productcode, volume, eenheid, frequentie).",
+    "Reactie": "U geeft de NAW gegevens door naar de afdeling ICT (om de zorgaanbieder in het systeem te zetten) en u geeft de gegevens door aan de afdeling boekhouding zodat zij het rekeningnummer kunnen vastleggen .",
+    "Future Lane": "Zorg ook dat de niet gecontracteerde zorgaanbieder een vast proces hebben zodat zij die de zorg nodig hebben, het sneller kunnen krijgen. Laat de administratie daar geen vertraging in veroorzaken.",
+    "Berichten": "315-316 301-302"
+  },
+  {
+    "Casus": 12,
+    "Actie": "De toegang heeft een gezin uitvoerig gesproken en er ligt een duidelijke zorgvraag.",
+    "Reactie": "De toegangsmedewerker heeft het aanvraagformulier voor de backoffice gevuld, alleen is deze niet compleet. Er verstrijkt veel tijd om de toegangsmedewerker te pakken te krijgen. En al die tijd, wacht het kind op de zorg...",
+    "Future Lane": "Men is niet altijd bewust van de rol die zij hebben in het proces. Processen lopen niet altijd door wanneer iets onvolledig is. - Bewustwoording - pak je rol.",
+    "Berichten": "301-302"
+  },
+  {
+    "Casus": 13,
+    "Actie": "Een cliënt komt twee maal achter elkaar in beeld voor een herindicatie.",
+    "Reactie": "Tot twee maal toe wordt de cliënt vanuit de Wmo naar de Wlz gestuurd. In de verwerkingstijd van de omzetting krijgt de cliënt geen zorg. Tot twee maal toe slaat onzekerheid over de zorginzet en discussie tussen gemeenten en Wlz toe.",
+    "Future Lane": "Zorg dat de zorg gecontinueerd kan worden wanneer er een administratieve wijziging wordt doorgevoerd.",
+    "Berichten": "301-302 303-304 301-302"
+  },
+  {
+    "Casus": 14,
+    "Actie": "Halverwege de zorgperiode wijzigt het woonplaatsbeginsel van een kind.",
+    "Reactie": "Wat als er dan verschillende uitvoeringsvarianten zijn?",
+    "Future Lane": "Maak dit proces eenduidig, breng inzicht door processen te standaardiseren.",
+    "Berichten": ""
+  },
+  {
+    "Casus": 15,
+    "Actie": "Ziekenhuizen leveren de zorg vanuit (o.a.) de Kindergeneeskunde. Ziekenhuizen worden door de software van ziekenhuizen in het hele land, beperkt om gebruik te maken van het berichtenverkeer.",
+    "Reactie": "Dat is administratief zwaar voor de ziekenhuizen. Het kost extra tijd om met gemeenten te communceren over de clienten en daarmee dus extra geld.",
+    "Future Lane": "Hierin zijn verschillende mogelijkheden, van het subsidieren van de ziekenhuizen tot het terugzetten van de financiele middelen hiervoor bij de zogrverzekeraar, of de oplossing zoeken in de commicatie tussen VECOZO en GGK en zo zijn er nog wel meer.",
+    "Berichten": ""
+  }
+]
